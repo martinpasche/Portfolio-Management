@@ -1,0 +1,16 @@
+jupyter
+jupyterlab
+ipykernel
+ipywidgets
+notebook
+ipykernel
+ipython
+numpy 
+pandas
+ffn
+yfinance
+seaborn
+scipy
+xgboost
+scikit-learn
+scikit-optimize
